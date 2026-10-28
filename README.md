@@ -14,6 +14,10 @@ The launcher automatically checks for new game releases. Click **Update** when o
 
 [Patch notes and all downloads](https://github.com/SauceyMcPasta/one-more-floor-downloads/releases)
 
+## Security lockdown
+
+Guards recover after 20 seconds. If a coworker spots them first, three support guards arrive through the elevator, lights come on, and valuables are sealed. Stay unseen and unheard for five seconds before the alert starts dropping; remain hidden until it empties to release the seals and send support back through the elevator. Sightings, audible actions and noticed flashlight light interrupt hiding. Radio captions and alarm sounds accompany the lockdown; spoken calls use an available English system voice.
+
 ## Controls
 
 - WASD: move; mouse: camera; Space: jump.
