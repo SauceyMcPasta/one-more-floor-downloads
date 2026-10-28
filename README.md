@@ -18,6 +18,10 @@ The launcher automatically checks for new game releases. Click **Update** when o
 
 Guards recover after 20 seconds. If a coworker spots them first, three support guards arrive through the elevator, lights come on, and valuables are sealed. Stay unseen and unheard for five seconds before the alert starts dropping; remain hidden until it empties to release the seals and send support back through the elevator. Sightings, audible actions and noticed flashlight light interrupt hiding. Radio captions and alarm sounds accompany the lockdown; spoken calls use an available English system voice.
 
+## Elevator and upgrades
+
+The elevator requires a completely empty threat bar; blocked attempts play a denial buzz. Every completed floor opens the upgrade shop before continuing. Upgrades can use current haul and stash, spending haul first and deducting it from the eventual cashout.
+
 ## Controls
 
 - WASD: move; mouse: camera; Space: jump.
@@ -27,7 +31,7 @@ Guards recover after 20 seconds. If a coworker spots them first, three support g
 
 ## Progression
 
-Capture resets the game to floor 1: carried loot, stash, records and all upgrades are lost. Higher floors increase security numbers, speed, awareness and reaction. The top bag panel lists the items you are carrying.
+Capture resets the game to floor 1: carried loot, stash, records and all upgrades are lost. Higher floors increase security numbers, speed, awareness and reaction. Small item symbols sit directly below the bag icon, without item names or cash values.
 
 ## About this build
 
