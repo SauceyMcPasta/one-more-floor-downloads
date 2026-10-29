@@ -6,6 +6,8 @@ Standalone third-person raccoon stealth heist for Windows 10/11 x64.
 
 [Download OneMoreFloorLauncher.exe](https://github.com/SauceyMcPasta/one-more-floor-downloads/releases/latest/download/OneMoreFloorLauncher.exe)
 
+**Launcher 1.0.1 fixes download recovery.** If the old launcher repeatedly says “Download interrupted”, close it and download the replacement EXE above. Game updates do not replace the launcher itself. The new launcher retries transient failures and shows precise errors if a connection or disk problem remains.
+
 Run the launcher, click Install, then Play. Existing players: click Update for **v0.11**. Repair installs a fresh verified copy; installed games can be played offline.
 
 [Patch notes and all downloads](https://github.com/SauceyMcPasta/one-more-floor-downloads/releases)
